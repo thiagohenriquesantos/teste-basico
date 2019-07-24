@@ -3,6 +3,7 @@ module.exports = {
   description:
     "Essa é uma página feita para o desafio de desenvolvedor júnior do básico.com",
   themeConfig: {
+    repo: "https://github.com/thiagohenriquesantos/teste-basico",
     nav: [
       {
         text: "Home",
